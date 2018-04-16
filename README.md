@@ -27,3 +27,17 @@
   * [commons-pool2-2.4.2.jar](https://github.com/hailang8635/sessionDemo1/blob/master/WebContent/conf/tomcat-lib/commons-pool2-2.4.2.jar)
   * [jedis-2.6.2.jar](https://github.com/hailang8635/sessionDemo1/blob/master/WebContent/conf/tomcat-lib/jedis-2.6.2.jar)
   * [tomcat-redis-session-manager1.2.jar](https://github.com/hailang8635/sessionDemo1/blob/master/WebContent/conf/tomcat-lib/tomcat-redis-session-manager1.2.jar)
+## Test
+### tomcat will return "not login"
+* http://localhost:8081/info
+* http://localhost:8082/info
+
+### then we login in APP1
+* http://localhost:8080/login?username=smart2018
+
+### We can access important information in both of these servers
+* http://localhost/info
+#### or
+* http://localhost:8081/info
+* http://localhost:8082/info
+* http://localhost:8083/info
