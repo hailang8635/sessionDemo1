@@ -27,7 +27,7 @@
   * [commons-pool2-2.4.2.jar](https://github.com/hailang8635/sessionDemo1/blob/master/WebContent/conf/tomcat-lib/commons-pool2-2.4.2.jar)
   * [jedis-2.6.2.jar](https://github.com/hailang8635/sessionDemo1/blob/master/WebContent/conf/tomcat-lib/jedis-2.6.2.jar)
   * [tomcat-redis-session-manager1.2.jar](https://github.com/hailang8635/sessionDemo1/blob/master/WebContent/conf/tomcat-lib/tomcat-redis-session-manager1.2.jar)
-## Test
+## 三，Test
 ### tomcat will return "not login"
 * http://localhost:8081/info
 * http://localhost:8082/info
