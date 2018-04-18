@@ -42,6 +42,5 @@
 * http://localhost:8082/info
 * http://localhost:8083/info
 
-
-See:
+## 四，more info
 https://github.com/jcoleman/tomcat-redis-session-manager
