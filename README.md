@@ -43,4 +43,6 @@
 * http://localhost:8083/info
 
 ## 四，more info
-https://github.com/jcoleman/tomcat-redis-session-manager
+### https://github.com/jcoleman/tomcat-redis-session-manager
+### https://projects.spring.io/spring-session/
+
